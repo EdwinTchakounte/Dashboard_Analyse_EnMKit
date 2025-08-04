@@ -8,7 +8,7 @@ export const initialTasks: Task[] = [
     titre: "Analyse du besoin initial",
     description: "Identifier les attentes globales des utilisateurs et des parties prenantes.",
     acteur: "DEV001",
-    statut: "à faire",
+    statut: "terminée",
     note: null,
     commentaire: ""
   },
