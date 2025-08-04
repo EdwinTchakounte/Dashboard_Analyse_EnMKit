@@ -9,16 +9,16 @@ export const users: User[] = [
     code: "CP001"
   },
   {
-    login: "jean",
+    login: "Quentin",
     password: "dev123",
-    nom: "Jean D.",
+    nom: "Quentin",
     role: "developpeur",
     code: "DEV001"
   },
   {
-    login: "amina",
+    login: "Monthe",
     password: "dev456",
-    nom: "Amina S.",
+    nom: "Monthe",
     role: "developpeur",
     code: "DEV002"
   }
